@@ -1,0 +1,40 @@
+{
+  margin:0;
+  padding:0:
+
+}
+h1{
+  color:cyan ;
+  font-size: 45;
+  font-weight:bold;
+  
+}
+
+h2{
+  color:green;
+  font-weight:bold;
+}
+
+h3{
+ color :DodgerBlue;
+}
+
+body{
+  background-color:	#D3D3D3;<!-- Makes it light grey -->
+  color: #555555:
+  font-family:Helvetica;
+
+  font-size :20px;
+  font-weight:normal;
+}
+.button{
+  background-color:#1E90FF;
+  color:#ffffff;
+  padding:12px 15px;
+  border:none;
+}
+
+.button:hover{
+  background:purple;
+  color:white;
+}
